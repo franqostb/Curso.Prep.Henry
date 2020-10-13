@@ -1,0 +1,11 @@
+Variables: Es la habilidad que nos permite guardar informacion para poder usarlo mas adelante en algun lugar. Esta puede tener un nombre para poder acceder a ella a traves del mismo.
+
+Strings: Tambien llamado palabras. Se caracteriza por ser un hilo de caracteres. Se lo diferencia por iniciar y terminar con comillas. Es un tipo de dato en la ciencia de computacion.
+
+Funciones: Es aquello que nos permite ahorrar repetir codigos. Agrupa codigos y los guarda para poder usarlos despues.
+	Argumentos: es la variable que va entre los parentesis de la funcion. Toman un valor cuando se invoca la funcion.
+	Return: es una funcion que nos retorna un valor. Las funciones pueden retornar una sola vez.
+
+Declaraciones if: le otorga logica al codigo de la funcion. Con este control de flujo nos permitira ir preguntando y ejecutando codigos segun ciertas condiciones. Suele llevar condiciones que el resultado es verdadero o falso.
+
+Valores booleanos: Este tipo de datos solo tiene 2 valores posibles, que son true o false. Proceden del codigo binario.
